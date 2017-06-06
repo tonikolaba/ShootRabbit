@@ -1,0 +1,8 @@
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\bin\Debug\ShootRabit.exe.config
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\bin\Debug\ShootRabit.exe
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\bin\Debug\ShootRabit.pdb
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\obj\Debug\ShootRabit.ShootRabit.resources
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\obj\Debug\ShootRabit.Properties.Resources.resources
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\obj\Debug\ShootRabbit.csproj.GenerateResource.Cache
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\obj\Debug\ShootRabit.exe
+C:\Users\ArtOfSoul\Documents\Visual Studio 2012\Projects\ShootRabit\ShootRabit\obj\Debug\ShootRabit.pdb

@@ -11,4 +11,4 @@ C# (pronounced as see sharp) is a multi-paradigm programming language encompassi
 
 ##
 
-![Alt text](https://github.com/tonikolaba/artofsoul/blob/master/img/ArtOfSoul.png)
+![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoVOG.png?raw=true"ArtofSoul")
